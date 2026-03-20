@@ -1,8 +1,9 @@
 # Resumen-Capitulos_1-2
 
-##**COMUNICACIÓN EN EL MUNDO CONECTADO**
+**COMUNICACIÓN EN EL MUNDO CONECTADO**
 
-Infraestructura y Funcionamiento de la Red <br>
+***Infraestructura y Funcionamiento de la Red***
+
 Internet es una colección mundial de redes interconectadas que no pertenece a una sola entidad y funciona bajo estándares comunes para permitir el intercambio global de información. Su alcance es masivo, conectando desde pequeñas redes hogareñas (SOHO) hasta infraestructuras corporativas con miles de dispositivos, incluyendo objetos cotidianos como electrodomésticos y sensores médicos.<br>
 Para que esta comunicación sea posible, se requiere de un proceso técnico estructurado:<br>
 ***Naturaleza de los Datos:*** La información personal se clasifica en datos voluntarios (creados por el usuario), observados (capturados por acciones) e inferidos (basados en análisis).<br>
