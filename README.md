@@ -35,8 +35,7 @@ El hardware de red se clasifica en tres categorías esenciales que permiten la i
 **3. Conectividad al Mundo Exterior (ISP)**<br>
 Para que una red local acceda a Internet, requiere de un Proveedor de Servicios de Internet (ISP), el cual actúa como el eslabón de conexión.
 
-🔵***Función del ISP:*** Los ISP se conectan entre sí jerárquicamente para garantizar que el tráfico tome el camino más corto hacia su destino.
-
+🔵***Función del ISP:*** Los ISP se conectan entre sí jerárquicamente para garantizar que el tráfico tome el camino más corto hacia su destino.<br>
 🔵***Conexión del Usuario:*** El método más común para usuarios domésticos es el uso de un enrutador integrado (que incluye switch y punto de acceso) para conectarse al ISP mediante tecnologías como cable, DSL, red celular o satelital. 
 
 <img width="237" height="148" alt="image" src="https://github.com/user-attachments/assets/baec715f-5bf4-433c-94d6-cd7775543108" /> <img width="237" height="148" alt="image" src="https://github.com/user-attachments/assets/3ae209f2-aafd-4033-93de-a58f77776af8" />
